@@ -1,5 +1,5 @@
 # z80_assembler
-A Z80 cpu definition file to us with customASM
+A Z80 cpu definition file to use with customASM
 
 See customASM here: https://github.com/hlorenzi/customasm
 
